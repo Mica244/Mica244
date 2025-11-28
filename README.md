@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudiocss,html,js,css,mysql,sqlite,py,wordpress,vscode,figma,discord,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudiocss,html,js,css,mysql,sqlite,py,wordpress,bootstrap,reactvscode,figma,discord,&perline=12" />
   </a>
 </p>
 <br><br>
